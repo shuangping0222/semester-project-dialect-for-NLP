@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="sites" id="sites">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="region" type="string"></SimpleField>
+	<SimpleField name="lon" type="string"></SimpleField>
+	<SimpleField name="lat" type="string"></SimpleField>
+</Schema>
+<Folder><name>sites</name>
+  <Placemark id="sites.1">
+	<name>Beijing_Xicheng</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_city</SimpleData>
+		<SimpleData name="lon">116.37251358116619</SimpleData>
+		<SimpleData name="lat">39.91812360584148</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.372513581166,39.9181236058415</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.2">
+	<name>Beijing_Yanqing</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_suburb</SimpleData>
+		<SimpleData name="lon">115.98163156901515</SimpleData>
+		<SimpleData name="lat">40.46216897375426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>115.981631569015,40.4621689737543</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.3">
+	<name>Beijing_Pinggu</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_suburb</SimpleData>
+		<SimpleData name="lon">117.12737910459967</SimpleData>
+		<SimpleData name="lat">40.146950735799116</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.1273791046,40.1469507357991</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.4">
+	<name>Beijing_Miyun</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_suburb</SimpleData>
+		<SimpleData name="lon">116.84954704426833</SimpleData>
+		<SimpleData name="lat">40.38217565813752</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.849547044268,40.3821756581375</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.5">
+	<name>Beijing_Mentougou</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_suburb</SimpleData>
+		<SimpleData name="lon">116.10760355576534</SimpleData>
+		<SimpleData name="lat">39.94614672003409</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.107603555765,39.9461467200341</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.6">
+	<name>Beijing_Huairou</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_suburb</SimpleData>
+		<SimpleData name="lon">116.63838587142932</SimpleData>
+		<SimpleData name="lat">40.32261840426579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.638385871429,40.3226184042658</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.7">
+	<name>Beijing_Changping</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">BJ_suburb</SimpleData>
+		<SimpleData name="lon">116.23761791731043</SimpleData>
+		<SimpleData name="lat">40.22641337159427</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.23761791731,40.2264133715943</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.8">
+	<name>Hebei_Langfang_Guangyang</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">HB</SimpleData>
+		<SimpleData name="lon">116.71761426147614</SimpleData>
+		<SimpleData name="lat">39.52861144733396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>116.717614261476,39.528611447334</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.9">
+	<name>Hebei_Chengde_Luanping</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">HB</SimpleData>
+		<SimpleData name="lon">117.33949787111233</SimpleData>
+		<SimpleData name="lat">40.947560962909996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.339497871112,40.94756096291</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.10">
+	<name>Hebei_Baoding_Laishui</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">HB</SimpleData>
+		<SimpleData name="lon">115.7205430250843</SimpleData>
+		<SimpleData name="lat">39.40033419848886</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>115.720543025084,39.4003341984889</coordinates></Point>
+  </Placemark>
+  <Placemark id="sites.11">
+	<name>Tianjin_Jizhou</name>
+	<ExtendedData><SchemaData schemaUrl="#sites">
+		<SimpleData name="region">TJ</SimpleData>
+		<SimpleData name="lon">117.41457869478904</SimpleData>
+		<SimpleData name="lat">40.051508786394855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>117.414578694789,40.0515087863949</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

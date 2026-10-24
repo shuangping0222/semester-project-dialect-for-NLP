@@ -1,0 +1,6 @@
+comparison_type,reference_site,comparison_group,mean_edit_distance,n_pairs
+within_Beijing,Beijing_7_sites,Beijing_7_sites,0.19929,21
+outside_vs_Beijing,Hebei_Langfang_Guangyang,Beijing_7_sites,0.20336,7
+outside_vs_Beijing,Hebei_Chengde_Luanping,Beijing_7_sites,0.23375,7
+outside_vs_Beijing,Tianjin_Jizhou,Beijing_7_sites,0.23868,7
+outside_vs_Beijing,Hebei_Baoding_Laishui,Beijing_7_sites,0.31529,7

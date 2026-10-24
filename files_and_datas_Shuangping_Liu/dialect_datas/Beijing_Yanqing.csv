@@ -1,0 +1,290 @@
+NUM,WORD,IPA_CHN,TRANSCRIPTION,IPA_processed
+1,太阳,lao24Ǿier55,老爷儿,l a o 24 ʔ i e r 55
+2,月亮,xou21thou0Ǿie55,后头爷,x o u 21 tʰ o u 0 ʔ i e 55
+3,星星,ɕiŋ42ɕiə̃r0,星星儿,ɕ i ŋ 42 ɕ i ə̃ r 0
+4,云,Ǿyən55tshai0,云彩,ʔ y ə n 55 t͡sʰ a i 0
+5,风,fəŋ42,风,f ə ŋ 42
+7,闪电,ʂan214,闪,ʂ a n 214
+8,雷,lei55,雷,l e i 55
+9,雨,Ǿy214,雨,ʔ y 214
+10,下雨,ɕia21Ǿy214,下雨,ɕ i a 21 ʔ y 214
+11,淋,lin55,淋,l i n 55
+12,晒,ʂai53,晒,ʂ a i 53
+13,雪,ɕye214,雪,ɕ y e 214
+14,冰,piŋ42,冰,p i ŋ 42
+15,冰雹,ləŋ214tsɿ0,冷子,l ə ŋ 214 t͡s z̩ 0
+16,霜,ʂuaŋ42,霜,ʂ u a ŋ 42
+17,雾,Ǿu53,雾,ʔ u 53
+18,露,lu53ʂuei0,露水,l u 53 ʂ u e i 0
+19,虹,tɕiaŋ53,虹,t͡ɕ i a ŋ 53
+20,日食,thian44kou214tʂhʅ44lao24Ǿier55,天狗吃老爷儿,tʰ i a n 44 k o u 214 t ʂʰ ʅ 44 l a o 24 ʔ i e r 55
+22,天气,thian42,天,tʰ i a n 42
+23,晴,tɕhiŋ55,晴,t͡ɕʰ i ŋ 55
+24,阴,Ǿin42,阴,ʔ i n 42
+25,旱,xan53,旱,x a n 53
+26,涝,lao53,涝,l a o 53
+27,天亮,thian44liaŋ53,天亮,tʰ i a n 44 l i a ŋ 53
+28,水田,ʂuei214tɕiao44ti53,水浇地,ʂ u e i 214 t͡ɕ i a o 44 t i 53
+29,旱地,xan42ti53,旱地,x a n 42 t i 53
+30,田埂,kɤ44ləŋ214,隔棱,k ɤ 44 l ə ŋ 214
+31,路,tɑor53,道儿,t ɑ o r 53
+32,山,ʂan42,山,ʂ a n 42
+33,山谷,ʂan44kour42,山沟儿,ʂ a n 44 k o u r 42
+34,江,xɤ55,河,x ɤ 55
+35,溪,xɤ55kour42,河沟儿,x ɤ 55 k o u r 42
+36,水沟儿,ʂuei24kour42,水沟儿,ʂ u e i 24 k o u r 42
+37,湖,xu55,湖,x u 55
+38,池塘,ʂuei24khə̃r42,水坑儿,ʂ u e i 24 kʰ ə̃ r 42
+39,水坑儿,ʂuei24khə̃r42,水坑儿,ʂ u e i 24 kʰ ə̃ r 42
+40,洪水,ta21ʂuei214,大水,t a 21 ʂ u e i 214
+41,淹,Ǿian42,淹,ʔ i a n 42
+42,河岸,xɤ55Ǿiɐr53,河沿儿,x ɤ 55 ʔ i ɐ r 53
+43,坝,pa53,坝,p a 53
+44,地震,ti24tuŋ53,地动,t i 24 t u ŋ 53
+45,窟窿,khuŋ42luŋ0,窟窿,kʰ u ŋ 42 l u ŋ 0
+46,缝儿,fə̃r53,缝儿,f ə̃ r 53
+47,石头,ʂʅ55thou0,石头,ʂ ʅ 55 tʰ o u 0
+48,土,thu214,土,tʰ u 214
+49,泥,ȵi55,泥,n ʲ i 55
+50,水泥,Ǿiaŋ55xuei42,洋灰,ʔ i a ŋ 55 x u e i 42
+51,沙子,ʂa44tsɿ0,沙子,ʂ a 44 t͡s z̩ 0
+52,砖,tʂuan42,砖,t ʂ u a n 42
+53,瓦,va214,瓦,v a 214
+54,煤,mei55,煤,m e i 55
+55,煤油,mei55Ǿiou55,煤油,m e i 55 ʔ i o u 55
+56,炭,than53,炭,tʰ a n 53
+57,灰,xuei42,灰,x u e i 42
+58,灰尘,xuei42,灰,x u e i 42
+59,火,xuo214,火,x u o 214
+60,烟,Ǿian42,烟,ʔ i a n 42
+61,失火,tʂao55xuo214,着火,t ʂ a o 55 x u o 214
+62,水,ʂuei214,水,ʂ u e i 214
+63,凉水,liaŋ55ʂuei214,凉水,l i a ŋ 55 ʂ u e i 214
+64,热水,ʐɤ21ʂuei214,热水,ʐ ɤ 21 ʂ u e i 214
+65,开水,khai44ʂuei214,开水,kʰ a i 44 ʂ u e i 214
+66,磁铁,ɕi44thie24ʂʅ55,吸铁石,ɕ i 44 tʰ i e 24 ʂ ʅ 55
+67,时候,ʂʅ55xour0,时候儿,ʂ ʅ 55 x o u r 0
+68,什么时候,ʂua51ʂʅ55xour0,唰时候,ʂ u a 51 ʂ ʅ 55 x o u r 0
+69,现在,tʂei53xuər0,这会儿,t ʂ e i 53 x u ə r 0
+70,以前,Ǿi24tɕhian55,以前,ʔ i 24 t͡ɕʰ i a n 55
+71,以后,Ǿi24xou53,以后,ʔ i 24 x o u 53
+72,一辈子,Ǿi44pei53tsɿ0,一辈子,ʔ i 44 p e i 53 t͡s z̩ 0
+73,今年,tɕin42ȵian0,今年,t͡ɕ i n 42 n ʲ i a n 0
+74,明年,kuo53ȵian0,过年,k u o 53 n ʲ i a n 0
+75,后年,xou53ȵian0,后年,x o u 53 n ʲ i a n 0
+76,去年,ȵian55ʂʅ0kə0,年时个,n ʲ i a n 55 ʂ ʅ 0 k ə 0
+77,前年,tɕhian55ȵian0,前年,t͡ɕʰ i a n 55 n ʲ i a n 0
+78,往年,vaŋ24ȵian55,往年,v a ŋ 24 n ʲ i a n 55
+79,年初,ȵian55tʂhu42,年初,n ʲ i a n 55 t ʂʰ u 42
+80,年底,ȵian55ti214,年底,n ʲ i a n 55 t i 214
+81,今天,tɕiər42,今儿,t͡ɕ i ə r 42
+82,明天,miə̃r55,明儿,m i ə̃ r 55
+83,后天,xour53,后儿,x o u r 53
+84,大后天,ta24xour53,大后儿,t a 24 x o u r 53
+85,昨天,Ǿie53kə0,夜个,ʔ i e 53 k ə 0
+86,前天,tɕhiɐr55,前儿,t͡ɕʰ i ɐ r 55
+87,大前天,ta21tɕhiɐr55,大前儿,t a 21 t͡ɕʰ i ɐ r 55
+88,整天,tʂəŋ24thian42,整天,t ʂ ə ŋ 24 tʰ i a n 42
+89,每天,mei24thian42,每天,m e i 24 tʰ i a n 42
+90,早晨,tsao55tɕhi214,早起,t͡s a o 55 t͡ɕʰ i 214
+91,上午,tɕhian55ʂaŋ214,前晌,t͡ɕʰ i a n 55 ʂ a ŋ 214
+92,中午,ʂaŋ55xu0,晌乎,ʂ a ŋ 55 x u 0
+93,下午,xou53ʂaŋ0,后晌,x o u 53 ʂ a ŋ 0
+94,傍晚,tsha44xər42,擦黑儿,t͡sʰ a 44 x ə r 42
+95,白天,pai55thian0,白天,p a i 55 tʰ i a n 0
+96,夜晚,xei42tɕiə0,黑价,x e i 42 t͡ɕ i ə 0
+97,半夜,pan24Ǿie53,半夜,p a n 24 ʔ i e 53
+98,正月,tʂəŋ42Ǿye0,正月,t ʂ ə ŋ 42 ʔ y e 0
+99,大年初一,ta21ȵian55tʂhu42Ǿi0,大年初一,t a 21 n ʲ i a n 55 t ʂʰ u 42 ʔ i 0
+100,元宵节,tʂəŋ44Ǿye0ʂʅ55Ǿu0,正月十五,t ʂ ə ŋ 44 ʔ y e 0 ʂ ʅ 55 ʔ u 0
+101,清明,tɕhiŋ42miŋ0,清明,t͡ɕʰ i ŋ 42 m i ŋ 0
+102,端午,tuan42Ǿu0,端午,t u a n 42 ʔ u 0
+103,七月十五,tɕhi44Ǿye0ʂʅ55Ǿu0,七月十五,t͡ɕʰ i 44 ʔ y e 0 ʂ ʅ 55 ʔ u 0
+104,中秋,pa44Ǿye0ʂʅ55Ǿu214,八月十五,p a 44 ʔ y e 0 ʂ ʅ 55 ʔ u 214
+105,冬至,tuŋ44tʂʅ53,冬至,t u ŋ 44 t ʂ ʅ 53
+106,腊月,la53Ǿye0,腊月,l a 53 ʔ y e 0
+107,除夕,ȵian55san44ʂʅ55,年三十,n ʲ i a n 55 s a n 44 ʂ ʅ 55
+108,历书,xuaŋ55li0,黄历,x u a ŋ 55 l i 0
+109,阴历,nuŋ55li0,农历,n u ŋ 55 l i 0
+110,阳历,Ǿiaŋ55li0,阳历,ʔ i a ŋ 55 l i 0
+111,星期天,ɕiŋ44tɕhi55thian42,星期天,ɕ i ŋ 44 t͡ɕʰ i 55 tʰ i a n 42
+112,地方,ti53fɑ̃r0,地方儿,t i 53 f ɑ̃ r 0
+113,什么地方,ʂua53ti53faŋ0,唰地方,ʂ u a 53 t i 53 f a ŋ 0
+114,家里,tɕia42li0,家里,t͡ɕ i a 42 l i 0
+115,城里,tʂhəŋ55li0,城里,t ʂʰ ə ŋ 55 l i 0
+116,乡下,ɕiaŋ42ɕia0,乡下,ɕ i a ŋ 42 ɕ i a 0
+117,上面,ʂaŋ53miɐr0,上面儿,ʂ a ŋ 53 m i ɐ r 0
+118,下面,ti24ɕia0,底下,t i 24 ɕ i a 0
+119,左边,tsuo24piɐr0,左边儿,t͡s u o 24 p i ɐ r 0
+120,右边,Ǿiou53piɐr0,右边儿,ʔ i o u 53 p i ɐ r 0
+121,中间,taŋ44tɕiɐr42,当间儿,t a ŋ 44 t͡ɕ i ɐ r 42
+122,前面,tɕhian55thou0,前头,t͡ɕʰ i a n 55 tʰ o u 0
+123,后面,xou53thou0,后头,x o u 53 tʰ o u 0
+124,末尾,mɤ53liɑor214,末了儿,m ɤ 53 l i ɑ o r 214
+125,对面,tuei24miɐr53,对面儿,t u e i 24 m i ɐ r 53
+126,面前,tɕhian55thou0,前头,t͡ɕʰ i a n 55 tʰ o u 0
+127,背后,xou53thou0,后头,x o u 53 tʰ o u 0
+128,里面,li24thou0,里头,l i 24 tʰ o u 0
+129,外面,vai53thou0,外头,v a i 53 tʰ o u 0
+130,旁边,piɐr42ʂaŋ0,边儿上,p i ɐ r 42 ʂ a ŋ 0
+131,上,ʂaŋ53thou0,上头,ʂ a ŋ 53 tʰ o u 0
+132,下,ti24ɕia0,底下,t i 24 ɕ i a 0
+133,边儿,piɐr42,边儿,p i ɐ r 42
+134,角儿,tɕiɑor214,角儿,t͡ɕ i ɑ o r 214
+135,上去,ʂaŋ53tɕhy0,上去,ʂ a ŋ 53 t͡ɕʰ y 0
+136,下来,ɕia53lai0,下来,ɕ i a 53 l a i 0
+137,进去,tɕin53tɕhy0,进去,t͡ɕ i n 53 t͡ɕʰ y 0
+138,出来,tʂhu42lai0,出来,t ʂʰ u 42 l a i 0
+139,出去,tʂhu42tɕhy0,出去,t ʂʰ u 42 t͡ɕʰ y 0
+140,回来,xuei55lai0,回来,x u e i 55 l a i 0
+142,树,ʂu53,树,ʂ u 53
+143,木头,mu53thou0,木头,m u 53 tʰ o u 0
+144,松树,suŋ42ʂu53,松树,s u ŋ 42 ʂ u 53
+145,柏树,pai24ʂu53,柏树,p a i 24 ʂ u 53
+147,柳树,liou24ʂu53,柳树,l i o u 24 ʂ u 53
+148,竹子,tʂu24tsɿ0,竹子,t ʂ u 24 t͡s z̩ 0
+149,笋,suən214,笋,s u ə n 214
+150,叶子,Ǿier53,叶儿,ʔ i e r 53
+151,花,xuɐr42,花儿,x u ɐ r 42
+152,花蕾,xua44ku42tur0,花骨朵儿,x u a 44 k u 42 t u r 0
+153,梅花,mei55xuɐr42,梅花儿,m e i 55 x u ɐ r 42
+154,牡丹,mu24tan0,牡丹,m u 24 t a n 0
+155,荷花,xɤ55xuɐr0,荷花儿,x ɤ 55 x u ɐ r 0
+156,草,tshao214,草,t͡sʰ a o 214
+157,藤,thəŋ55,藤,tʰ ə ŋ 55
+158,刺,tshər53,刺儿,t͡sʰ ə r 53
+159,水果,ʂuei55kuor214,水果儿,ʂ u e i 55 k u o r 214
+160,苹果,phiŋ55kuo214,苹果,pʰ i ŋ 55 k u o 214
+161,桃子,thɑor55,桃儿,tʰ ɑ o r 55
+162,梨,li55,梨,l i 55
+163,李子,li24tsɿ0,李子,l i 24 t͡s z̩ 0
+164,杏,ɕiə̃r53,杏儿,ɕ i ə̃ r 53
+165,橘子,tɕy55tsɿ0,橘子,t͡ɕ y 55 t͡s z̩ 0
+166,柚子,Ǿiou53tsɿ0,柚子,ʔ i o u 53 t͡s z̩ 0
+167,柿子,ʂʅ53tsɿ0,柿子,ʂ ʅ 53 t͡s z̩ 0
+168,石榴,ʂʅ55liour0,石榴儿,ʂ ʅ 55 l i o u r 0
+169,枣,tsɑor214,枣儿,t͡s ɑ o r 214
+170,栗子,li53tsɿ0,栗子,l i 53 t͡s z̩ 0
+171,核桃,xɤ55thou0,核桃,x ɤ 55 tʰ o u 0
+172,银杏,Ǿin55ɕiə̃r53,银杏儿,ʔ i n 55 ɕ i ə̃ r 53
+173,甘蔗,kan42tʂɤ0,甘蔗,k a n 42 t ʂ ɤ 0
+174,木耳,mu21Ǿər214,木耳,m u 21 ʔ ə r 214
+175,蘑菇,mao55ku0,毛菇,m a o 55 k u 0
+176,香菇,ɕiaŋ44ku42,香菇,ɕ i a ŋ 44 k u 42
+177,稻子,tao53tsɿ0,稻子,t a o 53 t͡s z̩ 0
+178,稻谷,tao53tsɿ0,稻子,t a o 53 t͡s z̩ 0
+179,稻草,tao21tshao214,稻草,t a o 21 t͡sʰ a o 214
+180,大麦,ta24mai53,大麦,t a 24 m a i 53
+181,小麦,ɕiao24mai53,小麦,ɕ i a o 24 m a i 53
+182,麦秸,mai21xu0tɕie42,麦乎秸,m a i 21 x u 0 t͡ɕ i e 42
+183,谷子,ku42tsɿ0,谷子,k u 42 t͡s z̩ 0
+184,高粱,kao42liaŋ0,高粱,k a o 42 l i a ŋ 0
+185,玉米,paŋ53tsɿ0,棒子,p a ŋ 53 t͡s z̩ 0
+186,棉花,mian55xua0,棉花,m i a n 55 x u a 0
+188,芝麻,tʂʅ42ma0,芝麻,t ʂ ʅ 42 m a 0
+189,向日葵,khuei55xua42,葵花,kʰ u e i 55 x u a 42
+190,蚕豆,ta24tou53,大豆,t a 24 t o u 53
+191,豌豆,van42tou0,豌豆,v a n 42 t o u 0
+192,花生,xua44ʂəŋ42,花生,x u a 44 ʂ ə ŋ 42
+193,黄豆,xuaŋ55tou0,黄豆,x u a ŋ 55 t o u 0
+194,绿豆,ly53tou0,绿豆,l y 53 t o u 0
+195,豇豆,tɕiaŋ42tou0,豇豆,t͡ɕ i a ŋ 42 t o u 0
+196,大白菜,pai55tshai0,白菜,p a i 55 t͡sʰ a i 0
+197,包心菜,Ǿyan55pai55tshai0,圆白菜,ʔ y a n 55 p a i 55 t͡sʰ a i 0
+198,菠菜,pɤ42tshai0,菠菜,p ɤ 42 t͡sʰ a i 0
+199,芹菜,tɕhin55tshai0,芹菜,t͡ɕʰ i n 55 t͡sʰ a i 0
+200,莴笋,Ǿuor44suən214,莴儿笋,ʔ u o r 44 s u ə n 214
+201,韭菜,tɕiou24tshai53,韭菜,t͡ɕ i o u 24 t͡sʰ a i 53
+202,香菜,Ǿian55suei0,芫荽,ʔ i a n 55 s u e i 0
+203,葱,tshuŋ42,葱,t͡sʰ u ŋ 42
+204,蒜,suan53,蒜,s u a n 53
+205,姜,tɕiaŋ42,姜,t͡ɕ i a ŋ 42
+206,洋葱,tshuŋ44thou55,葱头,t͡sʰ u ŋ 44 tʰ o u 55
+207,辣椒,la21tɕiɑor42,辣椒儿,l a 21 t͡ɕ i ɑ o r 42
+208,茄子,tɕhie55tsɿ0,茄子,t͡ɕʰ i e 55 t͡s z̩ 0
+209,西红柿,ɕi44xuŋ55ʂʅ53,西红柿,ɕ i 44 x u ŋ 55 ʂ ʅ 53
+210,萝卜,luo55pei0,萝卜,l u o 55 p e i 0
+211,胡萝卜,xu55lu55pei53,胡萝卜,x u 55 l u 55 p e i 53
+212,黄瓜,xuaŋ55kua42,黄瓜,x u a ŋ 55 k u a 42
+213,丝瓜,sɿ42kua0,丝瓜,s z̩ 42 k u a 0
+214,南瓜,Ǿuo42kua0,倭瓜,ʔ u o 42 k u a 0
+216,红薯,pai55ʂu214,白薯,p a i 55 ʂ u 214
+217,马铃薯,ʂan42Ǿiao0,山药,ʂ a n 42 ʔ i a o 0
+218,芋头,Ǿy53thou0,芋头,ʔ y 53 tʰ o u 0
+219,山药,ʂan42Ǿiao53,山药,ʂ a n 42 ʔ i a o 53
+220,藕,ŋou214,藕,ŋ o u 214
+221,老虎,lao55xu214,老虎,l a o 55 x u 214
+222,猴子,xour55,猴儿,x o u r 55
+223,蛇,tʂhaŋ55tʂhuŋ0,长虫,t ʂʰ a ŋ 55 t ʂʰ u ŋ 0
+224,老鼠,xao53tsɿ0,耗子,x a o 53 t͡s z̩ 0
+225,蝙蝠,Ǿyan55pə0xu214,园不虎,ʔ y a n 55 p ə 0 x u 214
+226,鸟儿,tɕhiɑor214,雀儿,t͡ɕʰ i ɑ o r 214
+227,麻雀,tɕia44tɕhiɑor214,家雀儿,t͡ɕ i a 44 t͡ɕʰ i ɑ o r 214
+228,喜鹊,ɕi24tɕhiou0,喜鹊,ɕ i 24 t͡ɕʰ i o u 0
+229,乌鸦,lao24kua0,老鸹,l a o 24 k u a 0
+230,鸽子,kɤ42tsɿ0,鸽子,k ɤ 42 t͡s z̩ 0
+231,翅膀,tʂhʅ21paŋ214,翅膀,t ʂʰ ʅ 21 p a ŋ 214
+232,爪子,tʂua24tsɿ0,爪子,t ʂ u a 24 t͡s z̩ 0
+233,尾巴,Ǿi24pa0,尾巴,ʔ i 24 p a 0
+234,窝,Ǿuor42,窝儿,ʔ u o r 42
+235,虫子,tʂhuŋ55,虫,t ʂʰ u ŋ 55
+236,蝴蝶,xu55thier214,蝴蝶儿,x u 55 tʰ i e r 214
+237,蜻蜓,ʂuei24thiŋ44thiə̃r0,水虰虰儿,ʂ u e i 24 tʰ i ŋ 44 tʰ i ə̃ r 0
+238,蜜蜂,mi53fə̃r0,蜜蜂儿,m i 53 f ə̃ r 0
+239,蜂蜜,mi53,蜜,m i 53
+240,知了,miŋ55miŋ55va42,鸣鸣哇,m i ŋ 55 m i ŋ 55 v a 42
+241,蚂蚁,ma55ɕia42tsɿ0,蚂瞎子,m a 55 ɕ i a 42 t͡s z̩ 0
+242,蚯蚓,tɕhy42tɕhyər0,曲曲儿,t͡ɕʰ y 42 t͡ɕʰ y ə r 0
+243,蚕,tshan55,蚕,t͡sʰ a n 55
+244,蜘蛛,tʂu42tʂu0,蛛蛛,t ʂ u 42 t ʂ u 0
+245,蚊子,vən55tsɿ0,蚊子,v ə n 55 t͡s z̩ 0
+246,苍蝇,Ǿiŋ55tsɿ0,蝇子,ʔ i ŋ 55 t͡s z̩ 0
+247,跳蚤,thiao53tsɿ0,跳子,tʰ i a o 53 t͡s z̩ 0
+248,虱子,ʂʅ42tsɿ0,虱子,ʂ ʅ 42 t͡s z̩ 0
+249,鱼,Ǿy55,鱼,ʔ y 55
+250,鲤鱼,lin24Ǿy55,檩鱼,l i n 24 ʔ y 55
+252,鲫鱼,tɕi24kua42tsɿ0,鲫瓜子,t͡ɕ i 24 k u a 42 t͡s z̩ 0
+253,甲鱼,vaŋ55pa0,王八,v a ŋ 55 p a 0
+254,鳞,lin55,鳞,l i n 55
+255,虾,ɕia42mi0,虾米,ɕ i a 42 m i 0
+256,螃蟹,phaŋ55ɕie0,螃蟹,pʰ a ŋ 55 ɕ i e 0
+257,青蛙,xɤ55ma0,蛤蟆,x ɤ 55 m a 0
+258,癞蛤蟆,lao24tɕiai53tu55,老疥毒,l a o 24 t͡ɕ i a i 53 t u 55
+259,马,ma214,马,m a 214
+260,驴,mao55ly55,毛驴,m a o 55 l y 55
+261,骡,luo55tsɿ0,骡子,l u o 55 t͡s z̩ 0
+262,牛,ȵiou55,牛,n ʲ i o u 55
+263,公牛,tɕian44ȵiou55,犍牛,t͡ɕ i a n 44 n ʲ i o u 55
+264,母牛,ʐu24ȵiou55,乳牛,ʐ u 24 n ʲ i o u 55
+265,放牛,faŋ21ȵiou55,放牛,f a ŋ 21 n ʲ i o u 55
+266,羊,Ǿiaŋ55,羊,ʔ i a ŋ 55
+267,猪,tʂu42,猪,t ʂ u 42
+271,猪崽,ɕiao24tʂur42,小猪儿,ɕ i a o 24 t ʂ u r 42
+272,猪圈,tʂu44tɕyan53,猪圈,t ʂ u 44 t͡ɕ y a n 53
+273,养猪,Ǿiaŋ24tʂu42,养猪,ʔ i a ŋ 24 t ʂ u 42
+274,猫,mao55,猫,m a o 55
+275,公猫,laŋ55mao55,郎猫,l a ŋ 55 m a o 55
+276,母猫,mi24mao55,米猫,m i 24 m a o 55
+277,狗,kou214,狗,k o u 214
+278,公狗,Ǿia55kou214,牙狗,ʔ i a 55 k o u 214
+279,母狗,tshaŋ44kou214,苍狗,t͡sʰ a ŋ 44 k o u 214
+280,叫,Ǿiao214,咬,ʔ i a o 214
+281,兔子,thu53tsɿ0,兔子,tʰ u 53 t͡s z̩ 0
+282,鸡,tɕi42,鸡,t͡ɕ i 42
+283,公鸡,kuŋ44tɕi42,公鸡,k u ŋ 44 t͡ɕ i 42
+284,母鸡,mu24tɕi42,母鸡,m u 24 t͡ɕ i 42
+285,叫,ta24miə̃r55,打鸣儿,t a 24 m i ə̃ r 55
+286,下,ɕia53,下,ɕ i a 53
+287,孵,pao53,菢,p a o 53
+288,鸭,Ǿia42tsɿ0,鸭子,ʔ i a 42 t͡s z̩ 0
+289,鹅,ŋɤ55,鹅,ŋ ɤ 55
+290,阉,tɕhiao42,劁,t͡ɕʰ i a o 42
+291,阉,tɕhiao42,劁,t͡ɕʰ i a o 42
+293,喂,vei53,喂,v e i 53
+294,杀猪,tsai24tʂu42,宰猪,t͡s a i 24 t ʂ u 42
+295,杀,tshɿ53,刺,t͡sʰ z̩ 53
+296,村庄,tshuən42tsɿ0,村子,t͡sʰ u ə n 42 t͡s z̩ 0
+297,胡同,xu55tũr214,胡同儿,x u 55 t ũ r 214
+298,街道,tɕie42,街,t͡ɕ i e 42
+299,盖房子,kai21faŋ55tsɿ0,盖房子,k a i 21 f a ŋ 55 t͡s z̩ 0
+300,房子,tʂai55tsɿ0,宅子,t ʂ a i 55 t͡s z̩ 0
